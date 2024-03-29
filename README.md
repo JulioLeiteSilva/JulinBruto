@@ -1,6 +1,6 @@
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JulinBruto&theme=dark&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JulioLeiteSilva&theme=dark&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-phi-ashy-29.vercel.app/api/top-langs/?username=JulioLeiteSilva&show_icons=true&theme=dark&layout=compact" />
  </div>
  
